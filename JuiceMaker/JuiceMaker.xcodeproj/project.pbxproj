@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		76739EC225FB1F63007139E6 /* stockSettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76739EC125FB1F63007139E6 /* stockSettingViewController.swift */; };
 		BA1E863F25F9BE8900A5F6EE /* JuiceMakerError.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA1E863E25F9BE8900A5F6EE /* JuiceMakerError.swift */; };
 		BAA6DFC725F8521B00AC4589 /* FruitStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA6DFC625F8521B00AC4589 /* FruitStorage.swift */; };
 		C73DAF37255D0CDD00020D38 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C73DAF36255D0CDD00020D38 /* AppDelegate.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		76739EC125FB1F63007139E6 /* stockSettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stockSettingViewController.swift; sourceTree = "<group>"; };
 		BA1E863E25F9BE8900A5F6EE /* JuiceMakerError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuiceMakerError.swift; sourceTree = "<group>"; };
 		BAA6DFC625F8521B00AC4589 /* FruitStorage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitStorage.swift; sourceTree = "<group>"; };
 		C73DAF33255D0CDD00020D38 /* JuiceMaker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JuiceMaker.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -80,6 +82,7 @@
 				C73DAF3A255D0CDD00020D38 /* ViewController.swift */,
 				C73DAF3F255D0CDE00020D38 /* Assets.xcassets */,
 				C73DAF44255D0CDF00020D38 /* Info.plist */,
+				76739EC125FB1F63007139E6 /* stockSettingViewController.swift */,
 			);
 			path = JuiceMaker;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 				BA1E863F25F9BE8900A5F6EE /* JuiceMakerError.swift in Sources */,
 				BAA6DFC725F8521B00AC4589 /* FruitStorage.swift in Sources */,
 				C73DAF3B255D0CDD00020D38 /* ViewController.swift in Sources */,
+				76739EC225FB1F63007139E6 /* stockSettingViewController.swift in Sources */,
 				C73DAF37255D0CDD00020D38 /* AppDelegate.swift in Sources */,
 				C73DAF39255D0CDD00020D38 /* SceneDelegate.swift in Sources */,
 				C73DAF4C255D0D0400020D38 /* JuiceMaker.swift in Sources */,
